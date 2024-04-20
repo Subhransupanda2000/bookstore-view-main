@@ -15,6 +15,7 @@ function SidebarNav() {
         <NavItem>
           <NavLink to="/media">Media</NavLink>
         </NavItem>
+        
         <NavItem>
           <NavLink to="/cart">Cart</NavLink>
         </NavItem>

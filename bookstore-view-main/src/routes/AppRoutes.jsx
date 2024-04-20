@@ -19,7 +19,6 @@ const appRoutes = (
     <Route exact path="/" element={<Home />} />
     {/* Add more routes for different options if needed */}
     <Route path="/login" element={< LoginForm/>} />
-
     <Route path="*" element={<NotFoundPage />} />
   </Routes>
 );
